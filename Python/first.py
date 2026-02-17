@@ -25,6 +25,13 @@ if number%2==0:
      print("EVEN")
 else:
        print("ODD")
+area=11
+if area>15:
+     print("big area")
+elif area>10:
+     print("medium area")
+else:
+       print("small area")
 
 
 for i in range(10):
