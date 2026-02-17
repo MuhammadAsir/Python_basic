@@ -1,0 +1,1 @@
+print(cars['country'],'\n')
